@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Millionaire</string>
+    <string name="level">Уровень %d</string>
+    <string name="button_a">A: %s</string>
+    <string name="button_b">B: %s</string>
+    <string name="button_c">C: %s</string>
+    <string name="button_d">D: %s</string>
+    <string name="right_answer">И это правильный ответ!\nПереходим к следующему вопросу</string>
+    <string name="wrong_answer">Это фиаско, братан!\nВозвращаемся на первый уровень</string>
+</resources>
